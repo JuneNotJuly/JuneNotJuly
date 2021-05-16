@@ -2,9 +2,14 @@
 <h3 align="center">3rd Year Bioengineer at Imperial</h3>
 
 - 🔭 I’m currently working on **an MEng degree in Biomedical engineering at Imperial College London**
+
 - 👀 I’m interested in **Bioinformatics & Computer Vision**
+
 - 🌱 I’m currently learning [**Alpha Fold 2 implementation in PyTorch**](https://github.com/lucidrains/alphafold2)
+
 - 📫 How to reach me [**here**](https://www.linkedin.com/in/seokjun-lee/)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
