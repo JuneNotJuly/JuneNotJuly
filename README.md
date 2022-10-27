@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, 👋, I’m June </h1>
-<h3 align="center">3rd Year Bioengineer at Imperial</h3>
+<h3 align="center"> Bioengineer at Cambridge </h3>
 
-- 🔭 I’m currently working on **an MEng degree in Biomedical engineering at Imperial College London**
+- 🔭 I’m currently working on **an MPhil degree in Biotechnology at University of Cambridge**
 
-- 👀 I’m interested in **Bioinformatics & Computer Vision**
+- 👀 I’m interested in **Multi-omics, Machine Learning, entrepreneurship**
 
 - 🌱 I’m currently learning [**Alpha Fold 2 implementation in PyTorch**](https://github.com/lucidrains/alphafold2)
 
