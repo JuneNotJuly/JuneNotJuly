@@ -1,11 +1,11 @@
-<h1 align="center"> Hi, 👋, I’m June </h1>
-<h3 align="center"> Bioengineer at Cambridge </h3>
+<h1 align="center"> Hi, 👋, I’m Seokjun (석준) </h1>
+<h3 align="center"> Computational Biology at Cambridge </h3>
 
-- 🔭 I’m currently working on **an MPhil degree in Biotechnology at University of Cambridge**
+- 🔭 I’m currently working on **PhD degree in Stem Cell Biology at University of Cambridge**
 
-- 👀 I’m interested in **Multi-omics, Machine Learning, entrepreneurship**
+- 👀 I’m interested in **Multi-omics, Machine Learning, Precision Medicine, Stem Cell, Entrepreneurship**
 
-- 🌱 I’m currently learning [**Alpha Fold 2 implementation in PyTorch**](https://github.com/lucidrains/alphafold2)
+- 🌱 I’m currently learning [**MOGONET implementation in PyTorch**]
 
 - 📫 How to reach me [**here**](https://www.linkedin.com/in/seokjun-lee/)
 
